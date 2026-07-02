@@ -1,0 +1,5 @@
+-> iconify pour les icones : npm install --save-dev @iconify/vue
+
+-> En ajoutant Icon dans main.js, on peut utiliser les icones dans les composants avec <Icon icon="icon-name" />
+-> Exemple : <Icon icon="mdi:home" />
+
